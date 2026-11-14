@@ -200,3 +200,6 @@ This repository serves as the official landing page for Corel AfterShot Pro. The
 - 💬 **[Community](https://uojpx.berga.top/about-us/)**
 ---
 **Get the most recent version of Corel AfterShot Pro today!**
+
+---
+**Last updated:** 2026-11-14 21:06:17 UTC
