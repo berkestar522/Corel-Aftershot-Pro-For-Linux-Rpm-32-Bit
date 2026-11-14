@@ -1,0 +1,1 @@
+# Corel-Aftershot-Pro-For-Linux-Rpm-32-Bit
