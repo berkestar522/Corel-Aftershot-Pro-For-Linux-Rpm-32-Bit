@@ -202,4 +202,4 @@ This repository serves as the official landing page for Corel AfterShot Pro. The
 **Get the most recent version of Corel AfterShot Pro today!**
 
 ---
-**Last updated:** 2026-11-27 22:29:04 UTC
+**Last updated:** 2026-11-28 04:30:37 UTC
